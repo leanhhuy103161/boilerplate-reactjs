@@ -61,6 +61,10 @@
     "typescript": "4.6.4",
     "web-vitals": "2.1.4"
   },
+  "devDependencies": {
+    "@commitlint/cli": "^12.1.4",
+    "@commitlint/config-conventional": "^12.1.4"
+  },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
